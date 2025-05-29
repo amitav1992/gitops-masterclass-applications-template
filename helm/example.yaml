@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<repo>
+    repoURL: https://github.com/amitav1992/gitops-masterclass-applications-template
     targetRevision: main
     path: path/to/chart
     ###

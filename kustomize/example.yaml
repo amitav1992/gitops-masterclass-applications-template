@@ -5,7 +5,7 @@ metadata:
   namespace: argocd
 spec:
   source:
-    repoURL: https://github.com/<repo>
+    repoURL: https://github.com/amitav1992/gitops-masterclass-applications-template
     targetRevision: main
     path: example/path
     ###
